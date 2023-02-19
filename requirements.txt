@@ -1,0 +1,10 @@
+beautifulsoup4==4.11.1
+dateparser==1.0.0
+more_itertools==8.12.0
+openpyxl==3.0.9
+psycopg2==2.8.4
+pyTelegramBotAPI==4.5.1
+python_telegram_bot_calendar==1.0.5
+requests==2.26.0
+transliterate==1.10.2
+YooMoney==0.1.0
